@@ -3,6 +3,7 @@ Modded map for TheIsle
 
 
 ![Screenshot](https://github.com/Pathos0925/Oasis-Map/blob/master/Oasis.png)
+![Screenshot2](https://github.com/Pathos0925/Oasis-Map/blob/master/OasisSC2.png)
 
 ## To Install:
 
